@@ -1,5 +1,5 @@
 # Oli's First CS193 Homework
-- Flexibility
+- Flexible
 - Chill
 - Practical
 
